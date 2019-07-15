@@ -1,8 +1,7 @@
 <?php
 /////////////////////////////////////
-// NAME : MAI VĂN LINH             //
-// PHONE : 089.9923.084            //
-// EMAIL : linhghostteam@gmail.com //
+// NAME : TRAN TUAN TRUONG         //
+// EMAIL : truongsofm@gmail.com    //
 /////////////////////////////////////
 error_reporting(0);
 function CURL_FSHARE($url, $data = ''){
